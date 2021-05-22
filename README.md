@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=amanjaintkg9509&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=fffff&bg_color=ff0011"/>
+[Gopi Jagan Resume](https://github.com)
