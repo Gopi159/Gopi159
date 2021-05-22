@@ -1,4 +1,4 @@
-### Hi there 👋
+# 👋 I'm Gopi Jagan, A FullStack Developer 
 
 <!--
 **Gopi159/Gopi159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=amanjaintkg9509&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=fffff&bg_color=ff0011"/>
