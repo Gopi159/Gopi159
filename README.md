@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 [Resume](https://github.com/Gopi159/Gopi159/blob/main/Gopi's%20Resume%20(3).pdf)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gopi159&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=fffff&bg_color=ff0011"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Gopi159&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=fffff&bg_color=ff0011"/> -->
 
