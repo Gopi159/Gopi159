@@ -1,4 +1,4 @@
-# 👋 I'm Gopi Jagan, A FullStack Developer 
+# 👋 I'm Gopi Sekar, A FullStack Developer 
 
 <!--
 **Gopi159/Gopi159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
