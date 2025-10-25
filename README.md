@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Resume](https://github.com/Gopi159/Gopi-Sekar/blob/main/GopiSekar-Frontend%20Engineer.pdf)
+[Gopi-Sekar-Frontend-Engineer](https://github.com/Gopi159/Gopi-Sekar/blob/main/GopiSekar-Frontend%20Engineer.pdf)
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Gopi159&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=fffff&bg_color=ff0011"/> -->
